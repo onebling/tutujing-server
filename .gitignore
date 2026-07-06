@@ -1,0 +1,12 @@
+*.zip
+图图镜服务器版/
+*.log
+service.pid
+service.log
+data/
+logs/
+cache/
+__pycache__/
+.env
+.venv/
+node_modules/
