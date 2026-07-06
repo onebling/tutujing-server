@@ -49,6 +49,54 @@
 
 详细说明请看压缩包内 `使用说明.md`。
 
+## 界面预览
+
+服务器版和单机版使用同一套图图镜工作台界面，部署到服务器后通过浏览器访问。
+
+### 项目首页
+
+![项目首页](docs/images/01-project-home.png)
+
+### 文本创作
+
+可以在大纲、剧本、六段、脚本和分镜之间切换，把原文、梗概或已有剧本整理成可继续生产的视频内容。
+
+![大纲工作区](docs/images/02-outline-workspace.png)
+
+![剧本编辑](docs/images/03-script-editor.png)
+
+### 模型 API 设置
+
+在模型管理中心配置自己的模型服务商、Base URL、API Key 和不同应用场景的默认模型。
+
+![模型 API 设置](docs/images/04-model-api-settings.png)
+
+### 资产和素材
+
+项目资产用于管理角色图、场景图、道具图、参考图、视频素材和生成结果。
+
+![项目资产](docs/images/05-assets-library.png)
+
+![素材库](docs/images/07-material-gallery.png)
+
+### AI 助手
+
+AI 助手可用于大纲整理、剧本改写、六段拆解、分镜提示词、角色场景道具梳理、视频反推和素材改写等流程。
+
+![AI 助手](docs/images/06-ai-assistant.png)
+
+### 分镜和视频任务
+
+分镜页面可以按集、段、镜头整理角色、场景、道具和镜头内容，并继续用于故事图、图片生成和视频生成。
+
+![分镜与视频](docs/images/08-storyboard-video.png)
+
+## 联系方式
+
+QQ 交流群：1049427612
+
+<img src="docs/images/qq-group.jpg" alt="Codex + ChatGPT QQ 群" width="360">
+
 ## 授权说明
 
 本仓库只发布图图镜服务器版应用部署包，不作为开源源码仓库使用，当前没有提供 AGPL、MIT、Apache 等开源许可证。未经授权，请不要把下载包改名后作为自己的软件二次发布。
